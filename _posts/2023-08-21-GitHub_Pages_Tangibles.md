@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Sample Review Ticket
 description: Example Review Ticket!!! This will help us communicate results.
-type: tangibles
+type: hacks
 courses: { compsci: {week: 1} }
 ---
 
