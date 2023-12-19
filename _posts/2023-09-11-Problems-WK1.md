@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Probmles WK 1
+title: Review Ticket
 description: Problems for week 1
 type: tangibles
 courses: { compsci: {week: 1} }
